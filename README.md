@@ -7,7 +7,6 @@ My motivation for this project was to build a README generator so I can be able 
 
 ## Walk Through Video
 
-[Screenshot 2023-01-23 at 5.25.58 PM.zip](https://github.com/j-pohahau5/pro-README/files/10485701/Screenshot.2023-01-23.at.5.25.58.PM.zip)
 [/Users/jonathanpohahau/Desktop/bootcamp/pro-README/Develop/img/Screen Recording 2023-01-23 at 5.26.16 PM.mov]
 
 
