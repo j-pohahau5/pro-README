@@ -1,5 +1,5 @@
 // TODO: Include packages needed for this application
-// making a const inquirer to it constantly has the value of require method requiringinquirer
+// making a const inquirer to it constantly has the value of require method requiring inquirer
 const inquirer = require("inquirer");
 // making a const fs to it constantly has the value of require method requiring fs
 const fs = require("fs");
